@@ -28,8 +28,8 @@ This is a React Native implementation of the Coinpay Fintech Finance Mobile App 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/coinpay-app.git
-cd coinpay-app
+git clone https://github.com/ayhanblt/FintechMobileApp.git
+cd FintechMobileApp
 ```
 
 2. Install dependencies:
@@ -66,7 +66,7 @@ npx expo start --android
 ## Project Structure
 
 ```
-coinpay-app/
+FintechMobileApp/
 ├── assets/                 # Images, fonts, and other static assets
 ├── src/
 │   ├── components/         # Reusable UI components
